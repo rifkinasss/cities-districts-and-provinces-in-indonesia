@@ -1,0 +1,356 @@
+[
+  {
+    "id_kota_kabupaten": 451,
+    "provinsi_id": 31,
+    "nama": "Buru",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 452,
+    "provinsi_id": 31,
+    "nama": "Buru Selatan",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 453,
+    "provinsi_id": 31,
+    "nama": "Kepulauan Aru",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 454,
+    "provinsi_id": 31,
+    "nama": "Maluku Barat Daya",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 455,
+    "provinsi_id": 31,
+    "nama": "Maluku Tengah",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 456,
+    "provinsi_id": 31,
+    "nama": "Maluku Tenggara",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 457,
+    "provinsi_id": 31,
+    "nama": "Maluku Tenggara Barat",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 458,
+    "provinsi_id": 31,
+    "nama": "Seram Bagian Barat",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 459,
+    "provinsi_id": 31,
+    "nama": "Seram Bagian Timur",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 460,
+    "provinsi_id": 31,
+    "nama": "Ambon",
+    "tipe": "Kota"
+  },
+  {
+    "id_kota_kabupaten": 461,
+    "provinsi_id": 31,
+    "nama": "Tual",
+    "tipe": "Kota"
+  },
+  {
+    "id_kota_kabupaten": 462,
+    "provinsi_id": 32,
+    "nama": "Halmahera Barat",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 463,
+    "provinsi_id": 32,
+    "nama": "Halmahera Tengah",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 464,
+    "provinsi_id": 32,
+    "nama": "Halmahera Utara",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 465,
+    "provinsi_id": 32,
+    "nama": "Halmahera Selatan",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 466,
+    "provinsi_id": 32,
+    "nama": "Kepulauan Sula",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 467,
+    "provinsi_id": 32,
+    "nama": "Halmahera Timur",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 468,
+    "provinsi_id": 32,
+    "nama": "Pulau Morotai",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 469,
+    "provinsi_id": 32,
+    "nama": "Pulau Taliabu",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 470,
+    "provinsi_id": 32,
+    "nama": "Ternate",
+    "tipe": "Kota"
+  },
+  {
+    "id_kota_kabupaten": 471,
+    "provinsi_id": 32,
+    "nama": "Tidore Kepulauan",
+    "tipe": "Kota"
+  },
+  {
+    "id_kota_kabupaten": 471,
+    "provinsi_id": 33,
+    "nama": "Jayapura",
+    "tipe": "Kota"
+  },
+  {
+    "id_kota_kabupaten": 472,
+    "provinsi_id": 33,
+    "nama": "Jayapura",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 473,
+    "provinsi_id": 33,
+    "nama": "Keerom",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 474,
+    "provinsi_id": 33,
+    "nama": "Sarmi",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 475,
+    "provinsi_id": 33,
+    "nama": "Memberamo Raya",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 476,
+    "provinsi_id": 33,
+    "nama": "Pegunungan Bintang",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 477,
+    "provinsi_id": 34,
+    "nama": "Manokwari",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 478,
+    "provinsi_id": 34,
+    "nama": "Manokwari Selatan",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 479,
+    "provinsi_id": 34,
+    "nama": "Pegunungan Arfak",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 480,
+    "provinsi_id": 34,
+    "nama": "Fak-Fak",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 481,
+    "provinsi_id": 34,
+    "nama": "Kaimana",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 482,
+    "provinsi_id": 34,
+    "nama": "Teluk Bintuni",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 483,
+    "provinsi_id": 34,
+    "nama": "Teluk Wondama",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 484,
+    "provinsi_id": 35,
+    "nama": "Sorong",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 485,
+    "provinsi_id": 35,
+    "nama": "Sorong",
+    "tipe": "Kota"
+  },
+  {
+    "id_kota_kabupaten": 486,
+    "provinsi_id": 35,
+    "nama": "Sorong Selatan",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 487,
+    "provinsi_id": 35,
+    "nama": "Raja Ampat",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 488,
+    "provinsi_id": 35,
+    "nama": "Tambrauw",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 489,
+    "provinsi_id": 35,
+    "nama": "Maybrat",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 498,
+    "provinsi_id": 36,
+    "nama": "Merauke",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 499,
+    "provinsi_id": 36,
+    "nama": "Mappi",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 500,
+    "provinsi_id": 36,
+    "nama": "Asmat",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 501,
+    "provinsi_id": 36,
+    "nama": "Boven Digoel",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 502,
+    "provinsi_id": 37,
+    "nama": "Nabire",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 503,
+    "provinsi_id": 37,
+    "nama": "Puncak Jaya",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 504,
+    "provinsi_id": 37,
+    "nama": "Mimika",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 505,
+    "provinsi_id": 37,
+    "nama": "Paniai",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 506,
+    "provinsi_id": 37,
+    "nama": "Dogiyai",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 507,
+    "provinsi_id": 37,
+    "nama": "Deyiai",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 508,
+    "provinsi_id": 37,
+    "nama": "Intan Jaya",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 509,
+    "provinsi_id": 37,
+    "nama": "Puncak",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 510,
+    "provinsi_id": 38,
+    "nama": "Jayawijaya",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 511,
+    "provinsi_id": 38,
+    "nama": "Lanny Jaya",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 512,
+    "provinsi_id": 38,
+    "nama": "Mamberamo Tengah",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 513,
+    "provinsi_id": 38,
+    "nama": "Nduga",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 514,
+    "provinsi_id": 38,
+    "nama": "Tolikara",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 515,
+    "provinsi_id": 38,
+    "nama": "Yahukimo",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 516,
+    "provinsi_id": 38,
+    "nama": "Yalimo",
+    "tipe": "Kabupaten"
+  }
+]

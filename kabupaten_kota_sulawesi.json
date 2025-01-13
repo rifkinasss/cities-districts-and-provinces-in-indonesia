@@ -1,0 +1,494 @@
+[
+  {
+    "id_kota_kabupaten": 369,
+    "provinsi_id": 25,
+    "nama": "Bolaang Mongondow",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 370,
+    "provinsi_id": 25,
+    "nama": "Bolaang Mongondow Selatan",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 371,
+    "provinsi_id": 25,
+    "nama": "Bolaang Mongondow Timur",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 372,
+    "provinsi_id": 25,
+    "nama": "Bolaang Mongondow Utara",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 373,
+    "provinsi_id": 25,
+    "nama": "Kepulauan Sangihe",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 374,
+    "provinsi_id": 25,
+    "nama": "Kepulauan Siau Tagulandang Biaro",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 375,
+    "provinsi_id": 25,
+    "nama": "Kepulauan Talaud",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 376,
+    "provinsi_id": 25,
+    "nama": "Minahasa",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 377,
+    "provinsi_id": 25,
+    "nama": "Minahasa Selatan",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 378,
+    "provinsi_id": 25,
+    "nama": "Minahasa Tenggara",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 379,
+    "provinsi_id": 25,
+    "nama": "Minahasa Utara",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 380,
+    "provinsi_id": 25,
+    "nama": "Bitung",
+    "tipe": "Kota"
+  },
+  {
+    "id_kota_kabupaten": 381,
+    "provinsi_id": 25,
+    "nama": "Kotamobagu",
+    "tipe": "Kota"
+  },
+  {
+    "id_kota_kabupaten": 382,
+    "provinsi_id": 25,
+    "nama": "Manado",
+    "tipe": "Kota"
+  },
+  {
+    "id_kota_kabupaten": 383,
+    "provinsi_id": 25,
+    "nama": "Tomohon",
+    "tipe": "Kota"
+  },
+  {
+    "id_kota_kabupaten": 384,
+    "provinsi_id": 26,
+    "nama": "Banggai",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 385,
+    "provinsi_id": 26,
+    "nama": "Banggai Kepulauan",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 386,
+    "provinsi_id": 26,
+    "nama": "Banggai Laut",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 387,
+    "provinsi_id": 26,
+    "nama": "Buol",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 388,
+    "provinsi_id": 26,
+    "nama": "Donggala",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 389,
+    "provinsi_id": 26,
+    "nama": "Morowali",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 390,
+    "provinsi_id": 26,
+    "nama": "Morowali Utara",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 391,
+    "provinsi_id": 26,
+    "nama": "Parigi Moutong",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 392,
+    "provinsi_id": 26,
+    "nama": "Poso",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 393,
+    "provinsi_id": 26,
+    "nama": "Sigi",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 394,
+    "provinsi_id": 26,
+    "nama": "Tojo Una-Una",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 395,
+    "provinsi_id": 26,
+    "nama": "Toli-Toli",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 396,
+    "provinsi_id": 26,
+    "nama": "Palu",
+    "tipe": "Kota"
+  },
+  {
+    "id_kota_kabupaten": 397,
+    "provinsi_id": 27,
+    "nama": "Bantaeng",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 398,
+    "provinsi_id": 27,
+    "nama": "Barru",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 399,
+    "provinsi_id": 27,
+    "nama": "Bone",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 400,
+    "provinsi_id": 27,
+    "nama": "Bulukumba",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 401,
+    "provinsi_id": 27,
+    "nama": "Enrekang",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 402,
+    "provinsi_id": 27,
+    "nama": "Gowa",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 403,
+    "provinsi_id": 27,
+    "nama": "Jeneponto",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 404,
+    "provinsi_id": 27,
+    "nama": "Kepulauan Selayar",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 405,
+    "provinsi_id": 27,
+    "nama": "Luwu",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 406,
+    "provinsi_id": 27,
+    "nama": "Luwu Timur",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 407,
+    "provinsi_id": 27,
+    "nama": "Luwu Utara",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 408,
+    "provinsi_id": 27,
+    "nama": "Maros",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 409,
+    "provinsi_id": 27,
+    "nama": "Pangkajene dan Kepulauan",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 410,
+    "provinsi_id": 27,
+    "nama": "Pinrang",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 411,
+    "provinsi_id": 27,
+    "nama": "Sidenreng Rappang",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 412,
+    "provinsi_id": 27,
+    "nama": "Sinjai",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 413,
+    "provinsi_id": 27,
+    "nama": "Soppeng",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 414,
+    "provinsi_id": 27,
+    "nama": "Takalar",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 415,
+    "provinsi_id": 27,
+    "nama": "Tana Toraja",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 416,
+    "provinsi_id": 27,
+    "nama": "Toraja Utara",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 417,
+    "provinsi_id": 27,
+    "nama": "Wajo",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 418,
+    "provinsi_id": 27,
+    "nama": "Makassar",
+    "tipe": "Kota"
+  },
+  {
+    "id_kota_kabupaten": 419,
+    "provinsi_id": 27,
+    "nama": "Palopo",
+    "tipe": "Kota"
+  },
+  {
+    "id_kota_kabupaten": 420,
+    "provinsi_id": 27,
+    "nama": "Parepare",
+    "tipe": "Kota"
+  },
+  {
+    "id_kota_kabupaten": 421,
+    "provinsi_id": 28,
+    "nama": "Bombana",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 422,
+    "provinsi_id": 28,
+    "nama": "Buton",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 423,
+    "provinsi_id": 28,
+    "nama": "Buton Selatan",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 424,
+    "provinsi_id": 28,
+    "nama": "Buton Tengah",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 425,
+    "provinsi_id": 28,
+    "nama": "Buton Utara",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 426,
+    "provinsi_id": 28,
+    "nama": "Kolaka",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 427,
+    "provinsi_id": 28,
+    "nama": "Kolaka Timur",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 428,
+    "provinsi_id": 28,
+    "nama": "Kolaka Utara",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 429,
+    "provinsi_id": 28,
+    "nama": "Konawe",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 430,
+    "provinsi_id": 28,
+    "nama": "Konawe Kepulauan",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 431,
+    "provinsi_id": 28,
+    "nama": "Konawe Selatan",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 432,
+    "provinsi_id": 28,
+    "nama": "Konawe Utara",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 433,
+    "provinsi_id": 28,
+    "nama": "Muna",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 434,
+    "provinsi_id": 28,
+    "nama": "Muna Barat",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 435,
+    "provinsi_id": 28,
+    "nama": "Wakatobi",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 436,
+    "provinsi_id": 28,
+    "nama": "Bau-Bau",
+    "tipe": "Kota"
+  },
+  {
+    "id_kota_kabupaten": 437,
+    "provinsi_id": 28,
+    "nama": "Kendari",
+    "tipe": "Kota"
+  },
+  {
+    "id_kota_kabupaten": 438,
+    "provinsi_id": 29,
+    "nama": "Majene",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 439,
+    "provinsi_id": 29,
+    "nama": "Mamasa",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 440,
+    "provinsi_id": 29,
+    "nama": "Mamuju",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 441,
+    "provinsi_id": 29,
+    "nama": "Mamuju Tengah",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 442,
+    "provinsi_id": 29,
+    "nama": "Mamuju Utara",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 443,
+    "provinsi_id": 29,
+    "nama": "Polewali Mandar",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 444,
+    "provinsi_id": 29,
+    "nama": "Mamuju",
+    "tipe": "Kota"
+  },
+  {
+    "id_kota_kabupaten": 445,
+    "provinsi_id": 30,
+    "nama": "Boalemo",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 446,
+    "provinsi_id": 30,
+    "nama": "Bone Bolango",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 447,
+    "provinsi_id": 30,
+    "nama": "Gorontalo",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 448,
+    "provinsi_id": 30,
+    "nama": "Gorontalo Utara",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 449,
+    "provinsi_id": 30,
+    "nama": "Pohuwato",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 450,
+    "provinsi_id": 30,
+    "nama": "Gorontalo",
+    "tipe": "Kota"
+  }
+]

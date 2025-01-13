@@ -1,0 +1,338 @@
+[
+  {
+    "id_kota_kabupaten": 313,
+    "provinsi_id": 20,
+    "nama": "Bengkayang",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 314,
+    "provinsi_id": 20,
+    "nama": "Kapuas Hulu",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 315,
+    "provinsi_id": 20,
+    "nama": "Kayong Utara",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 316,
+    "provinsi_id": 20,
+    "nama": "Ketapang",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 317,
+    "provinsi_id": 20,
+    "nama": "Kubu Raya",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 318,
+    "provinsi_id": 20,
+    "nama": "Landak",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 319,
+    "provinsi_id": 20,
+    "nama": "Melawi",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 320,
+    "provinsi_id": 20,
+    "nama": "Mempawah",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 321,
+    "provinsi_id": 20,
+    "nama": "Sambas",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 322,
+    "provinsi_id": 20,
+    "nama": "Sanggau",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 323,
+    "provinsi_id": 20,
+    "nama": "Sekadau",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 324,
+    "provinsi_id": 20,
+    "nama": "Sintang",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 325,
+    "provinsi_id": 20,
+    "nama": "Pontianak",
+    "tipe": "Kota"
+  },
+  {
+    "id_kota_kabupaten": 326,
+    "provinsi_id": 20,
+    "nama": "Singkawang",
+    "tipe": "Kota"
+  },
+  {
+    "id_kota_kabupaten": 327,
+    "provinsi_id": 21,
+    "nama": "Barito Selatan",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 328,
+    "provinsi_id": 21,
+    "nama": "Barito Timur",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 329,
+    "provinsi_id": 21,
+    "nama": "Barito Utara",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 330,
+    "provinsi_id": 21,
+    "nama": "Gunung Mas",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 331,
+    "provinsi_id": 21,
+    "nama": "Kapuas",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 332,
+    "provinsi_id": 21,
+    "nama": "Katingan",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 333,
+    "provinsi_id": 21,
+    "nama": "Kotawaringin Barat",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 334,
+    "provinsi_id": 21,
+    "nama": "Kotawaringin Timur",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 335,
+    "provinsi_id": 21,
+    "nama": "Lamandau",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 336,
+    "provinsi_id": 21,
+    "nama": "Murung Raya",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 337,
+    "provinsi_id": 21,
+    "nama": "Pulang Pisau",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 338,
+    "provinsi_id": 21,
+    "nama": "Sukamara",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 339,
+    "provinsi_id": 21,
+    "nama": "Seruyan",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 340,
+    "provinsi_id": 21,
+    "nama": "Palangka Raya",
+    "tipe": "Kota"
+  },
+  {
+    "id_kota_kabupaten": 341,
+    "provinsi_id": 22,
+    "nama": "Balangan",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 342,
+    "provinsi_id": 22,
+    "nama": "Banjar",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 343,
+    "provinsi_id": 22,
+    "nama": "Barito Kuala",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 344,
+    "provinsi_id": 22,
+    "nama": "Hulu Sungai Selatan",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 345,
+    "provinsi_id": 22,
+    "nama": "Hulu Sungai Tengah",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 346,
+    "provinsi_id": 22,
+    "nama": "Hulu Sungai Utara",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 347,
+    "provinsi_id": 22,
+    "nama": "Kotabaru",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 348,
+    "provinsi_id": 22,
+    "nama": "Tabalong",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 349,
+    "provinsi_id": 22,
+    "nama": "Tanah Bumbu",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 350,
+    "provinsi_id": 22,
+    "nama": "Tanah Laut",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 351,
+    "provinsi_id": 22,
+    "nama": "Tapin",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 352,
+    "provinsi_id": 22,
+    "nama": "Banjarbaru",
+    "tipe": "Kota"
+  },
+  {
+    "id_kota_kabupaten": 353,
+    "provinsi_id": 22,
+    "nama": "Banjarmasin",
+    "tipe": "Kota"
+  },
+  {
+    "id_kota_kabupaten": 354,
+    "provinsi_id": 23,
+    "nama": "Berau",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 355,
+    "provinsi_id": 23,
+    "nama": "Kutai Barat",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 356,
+    "provinsi_id": 23,
+    "nama": "Kutai Kartanegara",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 357,
+    "provinsi_id": 23,
+    "nama": "Kutai Timur",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 358,
+    "provinsi_id": 23,
+    "nama": "Mahakam Ulu",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 359,
+    "provinsi_id": 23,
+    "nama": "Paser",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 360,
+    "provinsi_id": 23,
+    "nama": "Penajam Paser Utara",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 361,
+    "provinsi_id": 23,
+    "nama": "Balikpapan",
+    "tipe": "Kota"
+  },
+  {
+    "id_kota_kabupaten": 362,
+    "provinsi_id": 23,
+    "nama": "Bontang",
+    "tipe": "Kota"
+  },
+  {
+    "id_kota_kabupaten": 363,
+    "provinsi_id": 23,
+    "nama": "Samarinda",
+    "tipe": "Kota"
+  },
+  {
+    "id_kota_kabupaten": 364,
+    "provinsi_id": 24,
+    "nama": "Bulungan",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 365,
+    "provinsi_id": 24,
+    "nama": "Malinau",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 366,
+    "provinsi_id": 24,
+    "nama": "Nunukan",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 367,
+    "provinsi_id": 24,
+    "nama": "Tana Tidung",
+    "tipe": "Kabupaten"
+  },
+  {
+    "id_kota_kabupaten": 368,
+    "provinsi_id": 24,
+    "nama": "Tarakan",
+    "tipe": "Kota"
+  }
+]
